@@ -3,14 +3,14 @@
 
 /*  css variables */
 :root {
-  --card-bg-01: #fdefe6;
-  --card-bg-02: #d6e5fb;
+  --card-bg-01: #e6fdfd;
+  --card-bg-02: #edd6fb;
   --card-bg-03: #ceebe9;
-  --card-bg-04: #e2f2b2;
+  --card-bg-04: #f2b2d7;
   --primary-color: #0a1d37;
-  --hero-bg: #d6e5fb;
+  --hero-bg: #e6d6fb;
   --heading-fontSize: 2rem;
-  --small-text-color: #999;
+  --small-text-color: #999999;
   --heading-text-color: #0a1d37;
 }
 

@@ -5,7 +5,7 @@ const useGetData = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('product.json')
+    fetch('/product.json')
     .then(res=>res.json())
     .then(data=>setData(data))
     setLoading(false);

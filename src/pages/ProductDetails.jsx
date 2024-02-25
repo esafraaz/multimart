@@ -15,6 +15,8 @@ import { toast } from "react-toastify";
 import useGetData from "../custom-hooks/useGetData";
 
 const ProductDetails = () => {
+	// const [data, setData] = useState([]);
+
 	const [product, setProduct] = useState({});
 	const [tab, setTab] = useState("desc");
 	const reviewUser = useRef("");
@@ -23,8 +25,18 @@ const ProductDetails = () => {
 
 	const [rating, setRating] = useState(null);
 	const { id } = useParams();
+	const {data } = useGetData("products")
+	useEffect(() => {
+		fetch("product.json")
+			.then((res) => res.json())
+			.then((data) => console.log(data));
+	}, []);
 
-	const { data } = useGetData();
+	useEffect(() => {
+		const product = data.find((item) => item.id === id);
+		setProduct(product || {});
+		console.log(data);
+	}, [data]);
 
 	const {
 		imgUrl,
@@ -36,12 +48,8 @@ const ProductDetails = () => {
 		shortDesc,
 		category,
 	} = product;
-	useEffect(() => {
-    const product = data.find((item) => item.id === id);
-    setProduct(product || {});
-}, [data, id]);
 
-	console.log(id, data);
+	// console.log(id, data);
 
 	const relatedProducts = data.filter((item) => item.category === category);
 
@@ -85,8 +93,8 @@ const ProductDetails = () => {
 			<section className="pt-0">
 				<Container>
 					<Row>
-						<Col lg="6">
-							<img src={imgUrl} alt="" />
+						<Col lg="4">
+							<img className="product_image" src={imgUrl} alt="" />
 						</Col>
 
 						<Col lg="6">

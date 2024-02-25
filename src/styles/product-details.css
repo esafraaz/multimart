@@ -1,6 +1,12 @@
 .product__details {
   margin-top: 70px;
 }
+.product_image{
+  height: 400px;
+  width: min-content;
+  margin-top: 50px;
+  margin-left: 100px;
+}
 
 .product__details h2 {
   font-size: 1.6rem;

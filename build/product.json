@@ -1,0 +1,438 @@
+[
+  {
+    "id": "01",
+    "productName": "Stone And Beam Toy-Car",
+    "imgUrl": "https://i.ibb.co/ZzszSZ1/pexels-polesie-toys-4491571.jpg",
+    "category": "toycar",
+    "price": 193,
+    "shortDesc": "StoneAndBeamToyCar with a modern design and comfortable seating.",
+    "description": "StoneAndBeamToyCar features a modern design with comfortable seating. Showcase your style with this elegant piece. Perfect for any living room setting.",
+    "reviews": [
+      {
+        "rating": 4.7,
+        "text": "Comfortable and stylish! Love the modern design."
+      }
+    ],
+    "avgRating": 4.5
+  },
+  {
+    "id": "02",
+    "productName": "Rivet Bigelow Modern Toy-Car",
+    "imgUrl": "https://i.ibb.co/4mgBzSZ/pexels-polesie-toys-4488181.jpg",
+    "category": "toycar",
+    "price": 253,
+    "shortDesc": "RivetBigelowModernToyCar with a contemporary design and premium quality.",
+    "description": "RivetBigelowModernToyCar showcases a contemporary design with premium quality. Elevate your living space with this modern and luxurious piece.",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Impressed with the quality and stylish design."
+      },
+      {
+        "rating": 4.8,
+        "text": "Comfortable seating and modern aesthetics. Highly recommended!"
+      }
+    ],
+    "avgRating": 4.9
+  },
+  {
+    "id": "03",
+    "productName": "Amazon BrandModern Toy-Car",
+    "imgUrl": "https://i.ibb.co/yqHPVmS/pexels-polesie-toys-4488052.jpg",
+    "category": "toycar",
+    "price": 173,
+    "shortDesc": "AmazonBrandModernToyCar with a sleek design and affordable price.",
+    "description": "AmazonBrandModernToyCar features a sleek design at an affordable price. Add a touch of modernity to your living room without breaking the bank.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Great value for the price. Modern and comfortable."
+      },
+      {
+        "rating": 4.9,
+        "text": "Satisfied with the purchase. Comfortable seating and stylish."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "04",
+    "productName": "Fllufy Sheep Toy-Car",
+    "imgUrl": "https://i.ibb.co/qJDJP6M/fuad-oba-e-I9sde-Blrw-unsplash.jpg",
+    "category": "toycar",
+    "price": 163,
+    "shortDesc": "FllufySheepToyCar with a cozy and fluffy design.",
+    "description": "FllufySheepToyCar offers a cozy and fluffy design for ultimate comfort. Create a warm and inviting atmosphere in your living space with this charming toy car.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Super comfy and fluffy! Love the unique design."
+      },
+      {
+        "rating": 4.9,
+        "text": "Feels like sitting on a cloud. Highly recommend."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "05",
+    "productName": "Faux Velvet ToyCar",
+    "imgUrl": "https://i.ibb.co/QbtBy2g/pexels-chrofit-the-man-to-call-5471948.jpg",
+    "category": "toycar",
+    "price": 163,
+    "shortDesc": "FauxVelvetToyCar with a luxurious design and plush velvet upholstery.",
+    "description": "FauxVelvetToyCar features a luxurious design with plush velvet upholstery. Enhance the elegance of your living room with this stylish and comfortable toy car.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Velvet heaven! Love the luxurious feel."
+      },
+      {
+        "rating": 4.9,
+        "text": "Stylish and comfortable. Perfect addition to my home."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "06",
+    "productName": "Fllufy Sheep Toy-Car",
+    "imgUrl": "https://i.ibb.co/DKVrMvX/pexels-xinyu-liu-10387554.jpg",
+    "category": "toycar",
+    "price": 163,
+    "shortDesc": "FllufySheepToyCar with a cozy and fluffy design.",
+    "description": "FllufySheepToyCar offers a cozy and fluffy design for ultimate comfort. Create a warm and inviting atmosphere in your living space with this charming toy car.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Super comfy and fluffy! Love the unique design."
+      },
+      {
+        "rating": 4.9,
+        "text": "Feels like sitting on a cloud. Highly recommend."
+      }
+    ],
+    "avgRating": 4.9
+  },
+  {
+    "id": "07",
+    "productName": "Sakarias Games",
+    "imgUrl": "https://i.ibb.co/12QJDdt/pexels-markus-spiske-298825.jpg",
+    "category": "games",
+    "price": 99,
+    "shortDesc": "SakariasGames with a modern design and comfortable seating.",
+    "description": "SakariasGames features a modern design with comfortable seating. Add a touch of sophistication to any room with this stylish games.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Stylish and comfortable games. Love the modern design."
+      },
+      {
+        "rating": 4.9,
+        "text": "Perfect addition to my living room. Comfortable seating."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "08",
+    "productName": "Modern Arm ",
+    "imgUrl": "https://i.ibb.co/P5K129r/pexels-keira-burton-6623819.jpg",
+    "category": "games",
+    "price": 79,
+    "shortDesc": "ModernArmToyCar with a sleek design and affordable price.",
+    "description": "ModernArmToyCar features a sleek design at an affordable price. Upgrade your living space with this modern and stylish games.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Affordable and stylish. Love the modern look."
+      },
+      {
+        "rating": 4.9,
+        "text": "Comfortable seating. Great value for the price."
+      }
+    ],
+    "avgRating": 4.9
+  },
+  {
+    "id": "09",
+    "productName": "Cozy Lounge Cycle",
+    "imgUrl": "https://i.ibb.co/Gt026Xd/pexels-tatiana-syrikova-3932845.jpg",
+    "category": "cycle",
+    "price": 109,
+    "shortDesc": "CozyLoungeCycle with a cozy design and plush upholstery.",
+    "description": "CozyLoungeCycle offers a cozy design with plush upholstery for maximum comfort. Relax in style with this inviting lounge cycle.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "So comfortable and cozy! Love the design."
+      },
+      {
+        "rating": 4.9,
+        "text": "Perfect for relaxation. Stylish and comfy."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "10",
+    "productName": "Ergonomic Office Cycle",
+    "imgUrl": "https://i.ibb.co/nzZ5ph8/nandhu-kumar-8f-O-ojt2-FYc-unsplash.jpg",
+    "category": "cycle",
+    "price": 129,
+    "shortDesc": "ErgonomicOfficeCycle with an ergonomic design for maximum comfort.",
+    "description": "ErgonomicOfficeCycle features an ergonomic design for maximum comfort during long work hours. Upgrade your office space with this functional and stylish cycle.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Great for long hours at the desk. Comfortable and supportive."
+      },
+      {
+        "rating": 4.9,
+        "text": "Stylish and ergonomic. Perfect for my home office."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "11",
+    "productName": "Vintage Leather Games",
+    "imgUrl": "https://i.ibb.co/ThW0SnV/pexels-artem-podrez-6941670-1.jpg",
+    "category": "games",
+    "price": 179,
+    "shortDesc": "VintageLeatherGames with a classic design and premium leather upholstery.",
+    "description": "VintageLeatherGames features a classic design with premium leather upholstery. Add a touch of sophistication to your space with this timeless games.",
+    "reviews": [
+      {
+        "rating": 4.9,
+        "text": "High-quality leather. Classic and comfortable."
+      },
+      {
+        "rating": 4.9,
+        "text": "Beautiful craftsmanship. Love the vintage look."
+      }
+    ],
+    "avgRating": 4.9
+  },
+  {
+    "id": "12",
+    "productName": "Contemporary Swivel Cycle",
+    "imgUrl": "https://i.ibb.co/SyZmDWN/ting-tse-wang-0pqo-Au5m-W0s-unsplash.jpg",
+    "category": "cycle",
+    "price": 149,
+    "shortDesc": "ContemporarySwivelCycle with a modern design and 360-degree swivel.",
+    "description": "ContemporarySwivelCycle features a modern design with a 360-degree swivel for added functionality. Upgrade your living space with this versatile and stylish swivel cycle.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Love the swivel feature. Modern and comfortable."
+      },
+      {
+        "rating": 4.9,
+        "text": "Stylish and functional. Great addition to my home."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "13",
+    "productName": "Mid-Century Modern Games",
+    "imgUrl": "https://i.ibb.co/V30zsQG/kevin-borrill-Ao-Md3sk9-Cw0-unsplash.jpg",
+    "category": "games",
+    "price": 139,
+    "shortDesc": "Mid-CenturyModernGames with a retro design and comfortable seating.",
+    "description": "Mid-CenturyModernGames features a retro design with comfortable seating. Add a touch of nostalgia to your space with this stylish and timeless games.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Retro charm with modern comfort. Love it!"
+      },
+      {
+        "rating": 4.9,
+        "text": "Comfortable and stylish. Perfect for my living room."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "14",
+    "productName": "Tufted Accent Games",
+    "imgUrl": "https://i.ibb.co/DwcQh1Z/virgil-cayasa-lsk-YDE0-WKJg-unsplash.jpg",
+    "category": "games",
+    "price": 119,
+    "shortDesc": "TuftedAccentGames with a stylish design and tufted upholstery.",
+    "description": "TuftedAccentGames features a stylish design with tufted upholstery. Enhance the elegance of your space with this chic and comfortable accent games.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Chic and comfortable. Love the tufted details."
+      },
+      {
+        "rating": 4.9,
+        "text": "Stylish addition to any room. Comfortable seating."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "15",
+    "productName": "Modern Rocking Cycle",
+    "imgUrl": "https://i.ibb.co/jwcWjBf/jordan-brierley-t-S-UPTCZko0-unsplash.jpg",
+    "category": "cycle",
+    "price": 89,
+    "shortDesc": "ModernRockingCycle with a modern design and soothing rocking motion.",
+    "description": "ModernRockingCycle features a modern design with soothing rocking motion. Relax in style with this contemporary rocking cycle that adds a touch of charm to any room.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Love the rocking motion. Modern and comfortable."
+      },
+      {
+        "rating": 4.9,
+        "text": "Perfect for relaxation. Stylish addition to my home."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "16",
+    "productName": "Industrial Bar Cycle",
+    "imgUrl": "https://i.ibb.co/swtyDcq/priscilla-du-preez-cbs3eh80-ZGk-unsplash.jpg",
+    "category": "cycle",
+    "price": 69,
+    "shortDesc": "IndustrialBarCycle with a sturdy metal frame and adjustable height.",
+    "description": "IndustrialBarCycle features a sturdy metal frame with adjustable height. Add an industrial touch to your kitchen or bar area with this stylish and functional bar cycle.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Sturdy and stylish. Love the industrial vibe."
+      },
+      {
+        "rating": 4.9,
+        "text": "Great addition to my kitchen. Comfortable and adjustable."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "17",
+    "productName": "Modern Swivel Cycle",
+    "imgUrl": "https://i.ibb.co/GFhdPS1/mustachescactus-oto5-OMKGg-Ns-unsplash.jpg",
+    "category": "cycle",
+    "price": 79,
+    "shortDesc": "ModernSwivelCycle with a sleek design and 360-degree swivel.",
+    "description": "ModernSwivelCycle features a sleek design with a 360-degree swivel for added convenience. Elevate your bar area with this modern and stylish bar cycle.",
+    "reviews": [
+      {
+        "rating": 4.9,
+        "text": "Sleek and swivels smoothly. Love the modern look."
+      },
+      {
+        "rating": 4.9,
+        "text": "Comfortable and stylish. Perfect for my bar."
+      }
+    ],
+    "avgRating": 4.9
+  },
+  {
+    "id": "18",
+    "productName": "Leather Counter Cycle",
+    "imgUrl": "https://i.ibb.co/DMC2Dxy/markus-spiske-h-Dfwm-VQ2v-Nw-unsplash.jpg",
+    "category": "cycle",
+    "price": 89,
+    "shortDesc": "LeatherCounterCycle with a classic design and premium leather upholstery.",
+    "description": "LeatherCounterCycle features a classic design with premium leather upholstery. Add a touch of sophistication to your kitchen or bar area with this timeless counter cycle.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "High-quality leather. Classic and comfortable."
+      },
+      {
+        "rating": 4.9,
+        "text": "Beautiful craftsmanship. Love the classic look."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "19",
+    "productName": "Modern Adjustable Cycle",
+    "imgUrl": "https://i.ibb.co/hLDPz0g/zoltan-tasi-Ts-B03tz5030-unsplash.jpg",
+    "category": "cycle",
+    "price": 99,
+    "shortDesc": "ModernAdjustableCycle with a contemporary design and adjustable height.",
+    "description": "ModernAdjustableCycle showcases a contemporary design with adjustable height. Upgrade your bar area with this modern and functional adjustable bar cycle.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Contemporary and adjustable. Love the modern design."
+      },
+      {
+        "rating": 4.9,
+        "text": "Comfortable and stylish. Great addition to my bar."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "20",
+    "productName": "Rustic Wood Cycle",
+    "imgUrl": "https://i.ibb.co/z62nvct/axel-brunst-g-Bsxoq-Cf-Oog-unsplash.jpg",
+    "category": "cycle",
+    "price": 79,
+    "shortDesc": "RusticWoodCycle with a rustic design and sturdy wooden construction.",
+    "description": "RusticWoodCycle features a rustic design with sturdy wooden construction. Bring a touch of rustic charm to your kitchen or bar area with this stylish and durable bar cycle.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Love the rustic design. Sturdy and stylish."
+      },
+      {
+        "rating": 4.9,
+        "text": "Perfect for my farmhouse-style kitchen. Comfortable and well-made."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "21",
+    "productName": "Industrial Adjustable Cycle",
+    "imgUrl": "https://i.ibb.co/mBPtXpy/markus-spiske-ANr-Vtttb-Nss-unsplash.jpg",
+    "category": "cycle",
+    "price": 69,
+    "shortDesc": "IndustrialAdjustableCycle with an industrial design and adjustable height.",
+    "description": "IndustrialAdjustableCycle features an industrial design with adjustable height. Add an edgy vibe to your kitchen or bar area with this functional and stylish adjustable cycle.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Edgy and adjustable. Love the industrial look."
+      },
+      {
+        "rating": 4.9,
+        "text": "Comfortable and sturdy. Great addition to my bar."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "22",
+    "productName": "Sleek Metal Cycle",
+    "imgUrl": "https://i.ibb.co/jMhgHFF/devon-hawkins-fqs-Ig60-D9is-unsplash.jpg",
+    "category": "cycle",
+    "price": 59,
+    "shortDesc": "SleekMetalCycle with a sleek design and sturdy metal construction.",
+    "description": "SleekMetalCycle features a sleek design with sturdy metal construction. Upgrade your kitchen or bar area with this modern and durable bar cycle.",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Sleek and modern. Love the sturdy construction."
+      },
+      {
+        "rating": 4.9,
+        "text": "Comfortable and stylish. Perfect for my modern kitchen."
+      }
+    ],
+    "avgRating": 4.7
+  }
+]

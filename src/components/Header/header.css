@@ -65,7 +65,7 @@
   height: 15px;
   content: "";
   background: var(--primary-color);
-  color: #fff;
+  color: #ffffff;
   border-radius: 50px;
   display: flex;
   align-items: center;
@@ -73,6 +73,7 @@
   font-size: 0.7rem;
   font-weight: 600;
   z-index: 10;
+
 }
 
 .nav__icons .profile img {
@@ -125,8 +126,10 @@
   top: 0;
   left: 0;
   z-index: 999;
+  transition: ease-in;
+  transition-duration: 200;
   box-shadow: 3px 3px 8px -3px #ddd;
-  background: #fff;
+  background: #f7d0ff;
 }
 
 @media only screen and (max-width: 768px) {
@@ -147,7 +150,7 @@
     right: 0;
     width: 250px;
     height: 100%;
-    background: #fff;
+    background: #f2cff8;
     z-index: 99999;
     flex-direction: column;
     align-items: center;
